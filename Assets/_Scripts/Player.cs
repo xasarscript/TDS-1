@@ -1,4 +1,5 @@
 using UnityEngine;
+using TMPro;
 
 public class Player : MonoBehaviour
 {
@@ -16,6 +17,7 @@ public class Player : MonoBehaviour
     [SerializeField] private Animator animator;
     [SerializeField] private SpriteRenderer playerSprite;
     [SerializeField] private GameObject gun;
+    [SerializeField] private TextMeshProUGUI shootTimerText;
 
     void Start()
     {
@@ -27,6 +29,7 @@ public class Player : MonoBehaviour
     {
         Shoot();
         Flip();
+        Timer();
     }
 
     private void FixedUpdate()
@@ -58,5 +61,11 @@ public class Player : MonoBehaviour
             Instantiate(bulletPrefab, shootPosition.position, shootPosition.rotation);
             shootTimer = 0;
         }
+    }
+
+    void Timer()
+    {
+        if ((timeBtwShoot - shootTimer) <= 0) shootTimerText.text = "Можно стрелять";
+        else shootTimerText.text = (timeBtwShoot - shootTimer).ToString("F2");
     }
 }

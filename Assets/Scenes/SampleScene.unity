@@ -194,7 +194,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.3, y: 0.3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 750856708}
@@ -241,9 +241,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
-  bullet: {fileID: 900135267525934704, guid: 98b85235c4bfb884eba464ac3c6bdf70, type: 3}
-  shootPos: {fileID: 1008758513}
   timeBtwShoot: 0.3
+  bulletPrefab: {fileID: 900135267525934704, guid: 98b85235c4bfb884eba464ac3c6bdf70, type: 3}
+  shootPosition: {fileID: 1008758513}
   animator: {fileID: 750856710}
   playerSprite: {fileID: 750856709}
   gun: {fileID: 365690904}
@@ -401,8 +401,8 @@ MonoBehaviour:
   maxX: 10
   minY: -10
   maxY: 10
+  followSpeed: 10
   target: {fileID: 374733873}
-  followSpeed: 5
 --- !u!1 &619394800
 GameObject:
   m_ObjectHideFlags: 0
@@ -686,7 +686,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 2.89, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.4, y: 0.4, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1008758513}
