@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: 65b681c998ec1d94596d12b128215692
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1439839916972252634
+    second: Grass2-2x2_0
+  - first:
+      213: -2906402629012356922
+    second: Grass2-2x2_1
+  - first:
+      213: 497478075959721630
+    second: Grass2-2x2_2
+  - first:
+      213: 73530848264927412
+    second: Grass2-2x2_3
+  - first:
+      213: -8126697589280195834
+    second: Grass2-2x2_4
+  - first:
+      213: 706008216189839323
+    second: Grass2-2x2_5
+  - first:
+      213: 7221073001018738691
+    second: Grass2-2x2_6
+  - first:
+      213: -7041484989943829214
+    second: Grass2-2x2_7
+  - first:
+      213: -4722022996555455735
+    second: Grass2-2x2_8
+  - first:
+      213: -5700226124575503199
+    second: Grass2-2x2_9
+  - first:
+      213: 1359876588280407501
+    second: Grass2-2x2_10
+  - first:
+      213: -228104072326849512
+    second: Grass2-2x2_11
+  - first:
+      213: -1324435398500791825
+    second: Grass2-2x2_12
+  - first:
+      213: 190904284314128490
+    second: Grass2-2x2_13
+  - first:
+      213: -4581062033373131991
+    second: Grass2-2x2_14
+  - first:
+      213: 4209055699312854021
+    second: Grass2-2x2_15
+  - first:
+      213: -8160313271281999541
+    second: Grass2-2x2_16
+  - first:
+      213: -8551101566028943281
+    second: Grass2-2x2_17
+  - first:
+      213: -7088130057704043079
+    second: Grass2-2x2_18
+  - first:
+      213: -4343184663904108838
+    second: Grass2-2x2_19
+  - first:
+      213: -2967640347302863477
+    second: Grass2-2x2_20
+  - first:
+      213: 2036366278006609535
+    second: Grass2-2x2_21
+  - first:
+      213: -2815633208081980326
+    second: Grass2-2x2_22
+  - first:
+      213: 3771527585413695489
+    second: Grass2-2x2_23
+  - first:
+      213: -5793824446086055457
+    second: Grass2-2x2_24
+  - first:
+      213: 8536484051018127945
+    second: Grass2-2x2_25
+  - first:
+      213: 1577028006332019344
+    second: Grass2-2x2_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grass2-2x2_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3
+        width: 125
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add1f80a6c65bf310800000000000000
+      internalID: 1439839916972252634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7ef93d1609e296c4fafb92d0ec1e7c0d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Grass2-2x2_0: 1439839916972252634
+      Grass2-2x2_1: -2906402629012356922
+      Grass2-2x2_10: 1359876588280407501
+      Grass2-2x2_11: -228104072326849512
+      Grass2-2x2_12: -1324435398500791825
+      Grass2-2x2_13: 190904284314128490
+      Grass2-2x2_14: -4581062033373131991
+      Grass2-2x2_15: 4209055699312854021
+      Grass2-2x2_16: -8160313271281999541
+      Grass2-2x2_17: -8551101566028943281
+      Grass2-2x2_18: -7088130057704043079
+      Grass2-2x2_19: -4343184663904108838
+      Grass2-2x2_2: 497478075959721630
+      Grass2-2x2_20: -2967640347302863477
+      Grass2-2x2_21: 2036366278006609535
+      Grass2-2x2_22: -2815633208081980326
+      Grass2-2x2_23: 3771527585413695489
+      Grass2-2x2_24: -5793824446086055457
+      Grass2-2x2_25: 8536484051018127945
+      Grass2-2x2_26: 1577028006332019344
+      Grass2-2x2_3: 73530848264927412
+      Grass2-2x2_4: -8126697589280195834
+      Grass2-2x2_5: 706008216189839323
+      Grass2-2x2_6: 7221073001018738691
+      Grass2-2x2_7: -7041484989943829214
+      Grass2-2x2_8: -4722022996555455735
+      Grass2-2x2_9: -5700226124575503199
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
